@@ -333,7 +333,6 @@ HTML = """<!DOCTYPE html>
     <div class="footer-action">
       <button id="logout">Bloquear sesión</button>
       <div class="session">Reporte generado <span id="genDate"></span></div>
-      <div style="font-size:9.5px;color:var(--muted2);text-align:center;margin-top:8px;line-height:1.4;padding:0 4px">Las cifras de dinero son <b style="color:var(--bm)">netas al vendedor</b> — descontadas las comisiones del Equipo (7.46%) y de Boletomóvil (7.44%).</div>
     </div>
   </aside>
 
