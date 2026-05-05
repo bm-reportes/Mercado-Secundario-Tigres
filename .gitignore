@@ -1,0 +1,17 @@
+# Datos crudos — NO subir a GitHub (contienen datos personales)
+MS/
+TR/
+Listados/
+*.xlsx
+*.xls
+~$*
+
+# Datos procesados sin cifrar
+analytics.json
+
+# Sistema
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+.env
