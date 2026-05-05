@@ -1097,7 +1097,7 @@ function render(d){
 
 out = HTML.replace('__LOGO_BM__', LOGO_BM).replace('%PAYLOAD_JSON%', json.dumps(blob))
 
-out_path = os.path.join(ROOT, 'reporte_tigres_ms.html')
+out_path = os.path.join(ROOT, 'index.html')
 with open(out_path, 'w', encoding='utf-8') as f:
     f.write(out)
 print(f'OK -> {out_path}  ({os.path.getsize(out_path):,} bytes)')

@@ -4,6 +4,12 @@ Reporte ejecutivo del mercado secundario (MS) de boletos de Tigres UANL para los
 
 El reporte se entrega como un HTML standalone con datos cifrados client-side (AES-GCM 256 + PBKDF2-SHA256, 250,000 iteraciones). Para abrirlo solo se necesita un navegador moderno y la contraseña.
 
+## 🌐 Acceso online
+
+[👉 https://bm-reportes.github.io/Mercado-Secundario-Tigres/](https://bm-reportes.github.io/Mercado-Secundario-Tigres/)
+
+Ingresa la contraseña en la pantalla de bloqueo para descifrar el reporte. Todo el descifrado ocurre en tu navegador — los datos no salen del equipo.
+
 ## Contenido del reporte
 
 - **Resumen** — KPIs globales, adopción del MS por abonos, embudo de eficacia y concentración de vendedores.
