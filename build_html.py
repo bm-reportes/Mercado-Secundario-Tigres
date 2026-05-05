@@ -455,8 +455,8 @@ HTML = """<!DOCTYPE html>
           <div class="chart-wrap tall"><canvas id="chartBancoPie"></canvas></div>
         </div>
         <div class="section">
-          <h2>Ingreso por banco <span class="badge">neto al vendedor</span></h2>
-          <div class="desc">Monto que efectivamente se transfiere al vendedor a cada banco. Descontadas las dos comisiones del MS: 7.46% del Equipo Tigres y 7.44% de Boletomóvil (≈14.9% del bruto).</div>
+          <h2>Ingreso por banco</h2>
+          <div class="desc">Monto que se transfiere al vendedor a cada banco.</div>
           <div class="chart-wrap tall"><canvas id="chartBancoBar"></canvas></div>
         </div>
       </div>
